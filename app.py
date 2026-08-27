@@ -34,11 +34,6 @@ st.write(
 
 st.divider()
 
-st.write(
-    "Enter the house details below to predict "
-    "the estimated house price."
-)
-
 
 st.subheader("House Information")
 
